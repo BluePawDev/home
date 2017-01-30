@@ -1,6 +1,6 @@
 ## Welcome to Blue Paw Development on GitHub
 
-Working on expanding development on:
+Expanding development on:
 
 - HTML/HTML5
 - CSS/CSS3
