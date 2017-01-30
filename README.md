@@ -1,6 +1,15 @@
-## Welcome to Blue Paw Development GitHub
+## Welcome to Blue Paw Development on GitHub
 
-Testing update of markdown...
+Working on expanding development on:
+
+- HTML/HTML5
+- CSS/CSS3
+- Bootstrap
+- GitHub
+- JavaScript
+- ReactJS
+- Angular
+- ...
 
 You can use the [editor on GitHub](https://github.com/BluePawDev/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
