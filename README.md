@@ -2,13 +2,10 @@
 
 Expanding development on:
 
-- HTML/HTML5   - JavaScript
-- CSS/CSS3     - ReactJS
-- Bootstrap    - Angular
-- GitHub       - ...
-
-
-
+- HTML/HTML5
+- CSS/CSS3
+- Bootstrap
+- GitHub
 - JavaScript
 - ReactJS
 - Angular
